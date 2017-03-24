@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Section1</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="setting">Setting</string>
+</resources>

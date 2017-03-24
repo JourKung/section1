@@ -1,0 +1,9 @@
+<resources>
+
+    
+    <style name="ProgreesBarStyle" parent="@android:style/Widget.Material.ProgressBar.Large">
+
+    </style>
+    
+
+</resources>
